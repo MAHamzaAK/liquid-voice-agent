@@ -1,0 +1,353 @@
+{
+  "online_price_checking": {
+    "signals": ["let me check online price", "amazon has this cheaper", "i saw this on flipkart", "checking reviews on phone"],
+    "contra_signals": ["i prefer buying in store", "online is risky"],
+    "applicable_principles": ["kahneman_reference_point_01", "kahneman_anchors_01", "cialdini_authority_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "past_purchase_regret": {
+    "signals": ["last time i bought something similar it was bad", "i got cheated before", "my previous purchase was a mistake"],
+    "contra_signals": ["i have had good experiences here", "i trust this type of product"],
+    "applicable_principles": ["kahneman_availability_01", "kahneman_loss_aversion_01", "voss_labeling_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "warranty_and_service_concern": {
+    "signals": ["what is the warranty", "what if it stops working", "is service available nearby", "who will repair this"],
+    "contra_signals": ["warranty is fine", "i can manage repairs"],
+    "applicable_principles": ["kahneman_risk_aversion_01", "cialdini_authority_01", "kahneman_certainty_effect_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "first_time_category_buyer": {
+    "signals": ["i have never bought this before", "this is new for me", "i dont know much about this", "first time purchasing"],
+    "contra_signals": ["i know what i want", "i have bought this type before"],
+    "applicable_principles": ["kahneman_cognitive_ease_01", "voss_labeling_01", "cialdini_social_proof_01"],
+    "typical_stage": "discovery",
+    "priority": 4
+  },
+  "upgrade_value_uncertainty": {
+    "signals": ["i already have an older version", "is the upgrade worth it", "my current one still works", "what is new in this"],
+    "contra_signals": ["i definitely need the new one", "my old one is broken"],
+    "applicable_principles": ["kahneman_endowment_effect_01", "kahneman_diminishing_sensitivity_01", "kahneman_reference_point_01"],
+    "typical_stage": "demo",
+    "priority": 4
+  },
+  "bundle_offer_confusion": {
+    "signals": ["what is included in this combo", "is bundle better or single", "i dont understand this offer", "too many schemes"],
+    "contra_signals": ["combo is clear to me", "i know what i am getting"],
+    "applicable_principles": ["kahneman_less_is_more_01", "kahneman_cognitive_ease_01", "kahneman_attention_effort_01"],
+    "typical_stage": "negotiation",
+    "priority": 4
+  },
+  "companion_rushing": {
+    "signals": ["my friend is waiting", "i need to hurry", "we have other shops to visit", "spouse is getting impatient"],
+    "contra_signals": ["i have time", "no rush today"],
+    "applicable_principles": ["voss_deadlines_01", "kahneman_lazy_controller_01", "cialdini_scarcity_01"],
+    "typical_stage": "closing",
+    "priority": 4
+  },
+  "social_media_validation": {
+    "signals": ["let me send photo to friend", "need to show my sister", "posting to get opinions", "let me video call someone"],
+    "contra_signals": ["i can decide myself", "no need to ask anyone"],
+    "applicable_principles": ["cialdini_social_proof_01", "kahneman_affect_heuristic_01", "voss_guarantee_execution_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "feature_overload_paralysis": {
+    "signals": ["too many features", "i dont need all this", "which features are actually useful", "this is too advanced for me"],
+    "contra_signals": ["i want all features", "more features is better"],
+    "applicable_principles": ["kahneman_less_is_more_01", "kahneman_attention_effort_01", "kahneman_substitution_01"],
+    "typical_stage": "demo",
+    "priority": 4
+  },
+  "maintenance_cost_worry": {
+    "signals": ["how much will upkeep cost", "is this expensive to maintain", "what are running costs", "spare parts available"],
+    "contra_signals": ["maintenance is not a concern", "i can afford upkeep"],
+    "applicable_principles": ["kahneman_planning_fallacy_01", "kahneman_loss_aversion_01", "kahneman_outside_view_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "space_size_constraint": {
+    "signals": ["will this fit in my room", "my space is small", "need to measure at home", "might be too big"],
+    "contra_signals": ["i have measured already", "size is perfect"],
+    "applicable_principles": ["kahneman_focusing_illusion_01", "voss_labeling_01", "kahneman_intuitive_predictions_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "seasonal_timing_hesitation": {
+    "signals": ["is this the right time to buy", "new model coming soon", "should i wait for next season", "better deals in festive time"],
+    "contra_signals": ["i need it now", "timing is fine"],
+    "applicable_principles": ["kahneman_planning_fallacy_01", "cialdini_scarcity_01", "kahneman_rare_events_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "loyalty_points_inquiry": {
+    "signals": ["do you have membership", "can i earn points", "any loyalty benefits", "i am a member elsewhere"],
+    "contra_signals": ["not interested in membership", "points dont matter"],
+    "applicable_principles": ["cialdini_commitment_and_consistency_01", "kahneman_endowment_effect_01", "cialdini_reciprocation_01"],
+    "typical_stage": "closing",
+    "priority": 3
+  },
+  "want_to_research_more": {
+    "signals": ["let me read reviews online", "need to do more research", "want to watch youtube videos", "havent done enough homework"],
+    "contra_signals": ["i have researched enough", "i know what i want"],
+    "applicable_principles": ["kahneman_illusion_of_validity_01", "voss_create_the_illusion_of_control_01", "kahneman_information_gathering_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "installation_setup_anxiety": {
+    "signals": ["who will install this", "is setup complicated", "will you help with installation", "i am not technical"],
+    "contra_signals": ["i can set it up myself", "installation is easy"],
+    "applicable_principles": ["kahneman_risk_aversion_01", "kahneman_cognitive_ease_01", "cialdini_authority_01"],
+    "typical_stage": "closing",
+    "priority": 4
+  },
+  "color_variant_indecision": {
+    "signals": ["which color is better", "cant decide the shade", "do you have other colors", "this color might not match"],
+    "contra_signals": ["i know my color", "this is the one"],
+    "applicable_principles": ["kahneman_less_is_more_01", "kahneman_halo_effect_01", "voss_be_a_mirror_01"],
+    "typical_stage": "demo",
+    "priority": 3
+  },
+  "trade_in_exchange_value": {
+    "signals": ["can i exchange my old one", "what will you give for trade in", "my old product has value", "exchange offer available"],
+    "contra_signals": ["no old product to exchange", "not interested in trade in"],
+    "applicable_principles": ["kahneman_endowment_effect_01", "kahneman_reference_point_01", "kahneman_loss_aversion_01"],
+    "typical_stage": "negotiation",
+    "priority": 4
+  },
+  "conflicting_peer_recommendation": {
+    "signals": ["my friend suggested different brand", "someone told me to buy other one", "i heard this brand is not good", "people say otherwise"],
+    "contra_signals": ["i trust my own choice", "recommendations match"],
+    "applicable_principles": ["cialdini_social_proof_01", "kahneman_representativeness_01", "kahneman_availability_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "sustainability_ethical_concern": {
+    "signals": ["is this eco friendly", "where is this made", "is this sustainable", "any harmful materials"],
+    "contra_signals": ["not concerned about this", "environment is not priority"],
+    "applicable_principles": ["kahneman_affect_heuristic_01", "cialdini_social_proof_01", "kahneman_causes_01"],
+    "typical_stage": "discovery",
+    "priority": 3
+  },
+  "after_sales_support_worry": {
+    "signals": ["what if i have problems later", "is customer support good", "will you help after purchase", "i have heard service is bad"],
+    "contra_signals": ["support is not needed", "i can handle issues myself"],
+    "applicable_principles": ["kahneman_risk_aversion_01", "cialdini_authority_01", "kahneman_availability_01"],
+    "typical_stage": "closing",
+    "priority": 4
+  },
+  "trying_without_buying_intent": {
+    "signals": ["just want to see how it feels", "trying for future reference", "not buying today just checking", "window shopping only"],
+    "contra_signals": ["ready to buy if i like it", "here to purchase"],
+    "applicable_principles": ["kahneman_endowment_effect_01", "voss_open_ended_questions_01", "cialdini_commitment_and_consistency_01"],
+    "typical_stage": "discovery",
+    "priority": 4
+  },
+  "child_influence_pressure": {
+    "signals": ["my child wants this", "kids are insisting", "need to convince my child otherwise", "child saw advertisement"],
+    "contra_signals": ["buying for myself", "child is not involved"],
+    "applicable_principles": ["kahneman_affect_heuristic_01", "voss_labeling_01", "cialdini_liking_01"],
+    "typical_stage": "discovery",
+    "priority": 4
+  },
+  "authenticity_genuineness_doubt": {
+    "signals": ["is this original", "is this genuine product", "how do i know this is not fake", "any authenticity proof"],
+    "contra_signals": ["i trust this is original", "authenticity is clear"],
+    "applicable_principles": ["cialdini_authority_01", "kahneman_loss_aversion_01", "cialdini_social_proof_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "demo_experience_dissatisfaction": {
+    "signals": ["this does not feel right", "demo was not convincing", "expected it to be better", "not impressed with trial"],
+    "contra_signals": ["demo was great", "exceeded expectations"],
+    "applicable_principles": ["kahneman_peak_end_rule_01", "kahneman_expectation_01", "voss_labeling_01"],
+    "typical_stage": "demo",
+    "priority": 5
+  },
+  "bulk_quantity_negotiation": {
+    "signals": ["i want to buy multiple", "any discount for bulk", "buying for whole family", "need several pieces"],
+    "contra_signals": ["only need one", "single piece is enough"],
+    "applicable_principles": ["kahneman_anchors_01", "voss_bargaining_01", "kahneman_diminishing_sensitivity_01"],
+    "typical_stage": "negotiation",
+    "priority": 4
+  },
+  "competing_priority_distraction": {
+    "signals": ["have other expenses coming", "saving for something else", "this is not priority right now", "need money for other things"],
+    "contra_signals": ["this is my priority", "budget allocated for this"],
+    "applicable_principles": ["kahneman_keepingscore_01", "kahneman_reference_point_01", "voss_labeling_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "salesperson_trust_deficit": {
+    "signals": ["salespeople always oversell", "you are just trying to sell", "i dont trust sales pitch", "give me honest opinion"],
+    "contra_signals": ["you seem trustworthy", "i appreciate your honesty"],
+    "applicable_principles": ["cialdini_liking_01", "voss_be_a_mirror_01", "cialdini_authority_01"],
+    "typical_stage": "discovery",
+    "priority": 5
+  },
+  "delivery_timeline_concern": {
+    "signals": ["when will i get it", "delivery takes too long", "need it urgently", "can you deliver faster"],
+    "contra_signals": ["no rush for delivery", "timeline is fine"],
+    "applicable_principles": ["voss_deadlines_01", "kahneman_planning_fallacy_01", "cialdini_scarcity_01"],
+    "typical_stage": "closing",
+    "priority": 4
+  },
+  "hidden_cost_suspicion": {
+    "signals": ["any hidden charges", "what is the final total", "additional costs later", "no surprise fees right"],
+    "contra_signals": ["pricing is transparent", "i understand all costs"],
+    "applicable_principles": ["kahneman_loss_aversion_01", "kahneman_negativity_dominance_01", "voss_beware_yes_01"],
+    "typical_stage": "closing",
+    "priority": 5
+  },
+  "second_visit_return": {
+    "signals": ["i came back to look again", "was here yesterday", "thinking since last visit", "wanted to see once more"],
+    "contra_signals": ["first time here", "never seen this before"],
+    "applicable_principles": ["cialdini_commitment_and_consistency_01", "kahneman_endowment_effect_01", "voss_thats_right_01"],
+    "typical_stage": "closing",
+    "priority": 5
+  },
+  
+  "price_shock_in_store": {
+    "signals": ["that is expensive", "i did not expect this price", "why is it so costly", "too much for me"],
+    "contra_signals": ["quality looks worth it", "i was expecting this range"],
+    "applicable_principles": ["kahneman_anchors_01", "kahneman_loss_aversion_01", "voss_labeling_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "just_browsing": {
+    "signals": ["just looking", "only browsing", "not buying today", "just checking"],
+    "contra_signals": ["i am looking for something specific", "i need help"],
+    "applicable_principles": ["voss_be_a_mirror_01", "voss_open_ended_questions_01", "kahneman_lazy_controller_01"],
+    "typical_stage": "discovery",
+    "priority": 4
+  },
+  "need_to_check_with_family": {
+    "signals": ["need to ask my spouse", "family decision", "parents need to see", "will come back with someone"],
+    "contra_signals": ["i will decide", "i am comfortable choosing"],
+    "applicable_principles": ["cialdini_commitment_and_consistency_01", "voss_guarantee_execution_01", "kahneman_reference_point_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "comparison_with_nearby_store": {
+    "signals": ["other shop is cheaper", "i saw this elsewhere", "next store has discount", "mall price is lower"],
+    "contra_signals": ["quality here is better", "i trust this store"],
+    "applicable_principles": ["kahneman_substitution_01", "kahneman_reference_point_01", "cialdini_social_proof_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "discount_expectation": {
+    "signals": ["any discount", "final price", "best price", "festival offer"],
+    "contra_signals": ["price is fine", "i am okay with this"],
+    "applicable_principles": ["kahneman_anchors_01", "cialdini_scarcity_01", "voss_bargaining_01"],
+    "typical_stage": "negotiation",
+    "priority": 5
+  },
+  "fear_of_wrong_choice": {
+    "signals": ["what if this is not good", "what if it does not suit me", "i am not sure", "i might regret this"],
+    "contra_signals": ["i feel confident", "this feels right"],
+    "applicable_principles": ["kahneman_loss_aversion_01", "voss_labeling_01", "kahneman_risk_aversion_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "fit_and_look_uncertainty": {
+    "signals": ["not sure it suits me", "how does it look", "will this match", "does this fit my style"],
+    "contra_signals": ["this looks perfect", "i love how it looks"],
+    "applicable_principles": ["kahneman_halo_effect_01", "cialdini_liking_01", "voss_be_a_mirror_01"],
+    "typical_stage": "demo",
+    "priority": 4
+  },
+  "quality_doubt": {
+    "signals": ["will this last", "is this durable", "quality looks okay but", "worth the money"],
+    "contra_signals": ["this feels solid", "quality is impressive"],
+    "applicable_principles": ["cialdini_authority_01", "kahneman_causes_01", "kahneman_endowment_effect_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "urgency_without_commitment": {
+    "signals": ["i will come later", "let me think", "maybe next week"],
+    "contra_signals": ["i should take this now", "i do not want to miss it"],
+    "applicable_principles": ["cialdini_scarcity_01", "voss_deadlines_01", "kahneman_lazy_controller_01"],
+    "typical_stage": "closing",
+    "priority": 4
+  },
+  "stock_availability_check": {
+    "signals": ["do you have other colors", "is this available in my size", "can you get this later"],
+    "contra_signals": ["this one works", "i can take this"],
+    "applicable_principles": ["cialdini_scarcity_01", "kahneman_rare_events_01"],
+    "typical_stage": "demo",
+    "priority": 3
+  },
+  "touch_and_feel_validation": {
+    "signals": ["can i try this", "can i feel the material", "let me test it"],
+    "contra_signals": ["this feels good already", "no need to try"],
+    "applicable_principles": ["kahneman_endowment_effect_01", "kahneman_associative_machine_01"],
+    "typical_stage": "demo",
+    "priority": 4
+  },
+  "return_policy_anxiety": {
+    "signals": ["what if i want to return", "what if it does not work", "is exchange possible"],
+    "contra_signals": ["return policy is fine", "i am comfortable"],
+    "applicable_principles": ["kahneman_risk_aversion_01", "kahneman_loss_aversion_01", "cialdini_authority_01"],
+    "typical_stage": "objection_handling",
+    "priority": 5
+  },
+  "budget_boundary": {
+    "signals": ["this is beyond my budget", "i cannot cross this amount", "i had a limit"],
+    "contra_signals": ["stretching budget is okay", "i can adjust a little"],
+    "applicable_principles": ["kahneman_diminishing_sensitivity_01", "kahneman_reference_point_01", "voss_labeling_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "too_many_choices": {
+    "signals": ["too many options", "i am confused", "hard to choose"],
+    "contra_signals": ["this one stands out", "decision is clear now"],
+    "applicable_principles": ["kahneman_less_is_more_01", "kahneman_attention_effort_01", "kahneman_cognitive_ease_01"],
+    "typical_stage": "discovery",
+    "priority": 4
+  },
+  "impulse_interest": {
+    "signals": ["this caught my eye", "looks interesting", "i was not planning to buy"],
+    "contra_signals": ["i came for this specifically"],
+    "applicable_principles": ["kahneman_priming_effect_01", "kahneman_affect_heuristic_01", "cialdini_liking_01"],
+    "typical_stage": "discovery",
+    "priority": 3
+  },
+  "gift_purchase_uncertainty": {
+    "signals": ["gift for someone else", "not sure what they like", "will they like this"],
+    "contra_signals": ["this is perfect for them", "they will love this"],
+    "applicable_principles": ["kahneman_focusing_illusion_01", "kahneman_loss_aversion_01", "cialdini_social_proof_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "waiting_for_sale_event": {
+    "signals": ["i will wait for sale", "festival offer coming", "price will drop later"],
+    "contra_signals": ["sale is not guaranteed", "i need this now"],
+    "applicable_principles": ["cialdini_scarcity_01", "kahneman_planning_fallacy_01", "kahneman_rare_events_01"],
+    "typical_stage": "objection_handling",
+    "priority": 4
+  },
+  "brand_trust_bias": {
+    "signals": ["i only buy known brands", "never heard of this brand", "is this reliable"],
+    "contra_signals": ["brand looks trustworthy", "i like this brand"],
+    "applicable_principles": ["kahneman_representativeness_01", "cialdini_authority_01", "cialdini_social_proof_01"],
+    "typical_stage": "discovery",
+    "priority": 4
+  },
+  "cash_vs_card_decision": {
+    "signals": ["any card offer", "cash discount", "emi available"],
+    "contra_signals": ["payment is fine", "i can pay now"],
+    "applicable_principles": ["kahneman_anchors_01", "kahneman_diminishing_sensitivity_01"],
+    "typical_stage": "closing",
+    "priority": 3
+  },
+  "walking_away_pause": {
+    "signals": ["let me walk around", "i will check other shops", "i will come back"],
+    "contra_signals": ["i should decide now", "this is the one"],
+    "applicable_principles": ["voss_labeling_01", "voss_deadlines_01", "cialdini_scarcity_01"],
+    "typical_stage": "closing",
+    "priority": 5
+  }
+}

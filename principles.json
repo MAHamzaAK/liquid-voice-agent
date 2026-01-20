@@ -1,0 +1,2248 @@
+[
+  {
+    "principle_id": "cialdini_consistency_01",
+    "name": "Consistency",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 1,
+      "page": "1-12",
+      "chapter_name": "Weapons of Influence",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_01.md"
+    },
+    "definition": "The principle of consistency suggests that once people commit to something, they are more likely to follow through with it, especially if the commitment is made publicly.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation"
+    ],
+    "signals": [
+      "'I need to think about it'",
+      "'Can you send me information?'"
+    ],
+    "contrary_signals": [
+      "'Let's move forward'",
+      "'I'm ready to sign'"
+    ],
+    "intervention": "Encourage the prospect to make a small commitment to the product or service.",
+    "example_response": "'If you’re ready, we can start with a small deposit to secure your order.'",
+    "mechanism": "People have a strong desire to appear consistent in their beliefs and actions, leading them to honor commitments they've made."
+  },
+  {
+    "principle_id": "cialdini_reciprocation_01",
+    "name": "Reciprocation",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 2,
+      "page": "13-42",
+      "chapter_name": "Reciprocation",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_02.md"
+    },
+    "definition": "The principle of reciprocation suggests that when someone does something for us, we naturally feel compelled to return the favor, which can drive purchasing behavior.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me information?",
+      "What are others paying?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Offer something of value upfront to create a sense of obligation.",
+    "example_response": "I'd be happy to send you a free sample so you can see the quality for yourself.",
+    "mechanism": "The reciprocity norm creates a psychological obligation to return favors, making customers more likely to engage in a purchase after receiving something."
+  },
+  {
+    "principle_id": "cialdini_socialproof_01",
+    "name": "Social Proof",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 1,
+      "page": "1-12",
+      "chapter_name": "Weapons of Influence",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_01.md"
+    },
+    "definition": "Social proof indicates that people are more likely to engage in a behavior if they see others doing it, which can be utilized in sales to reduce perceived risk.",
+    "triggers": [
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "'What are others paying?'",
+      "'How many have bought this?'"
+    ],
+    "contrary_signals": [
+      "'This is exactly what we need'",
+      "'I'm ready to sign'"
+    ],
+    "intervention": "Highlight testimonials, reviews, or statistics about how many people have purchased the product.",
+    "example_response": "'Over 1,000 customers have chosen this product this month alone—let me show you some of their feedback.'",
+    "mechanism": "The tendency to look to others for guidance in uncertain situations reduces perceived risk and encourages compliance."
+  },
+  {
+    "principle_id": "cialdini_authority_01",
+    "name": "Authority",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 6,
+      "page": "157-177",
+      "chapter_name": "Authority",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_06.md"
+    },
+    "definition": "The authority principle suggests that people are more likely to comply with requests made by individuals who are perceived as credible experts or figures of authority, which can significantly influence buying behavior.",
+    "triggers": [
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "What do the experts say about this?",
+      "Can you provide any credentials?",
+      "I need to know if this is backed by research."
+    ],
+    "contrary_signals": [
+      "I'm convinced, let's proceed.",
+      "I trust your expertise, let's finalize the deal.",
+      "This sounds good, I'm ready to sign."
+    ],
+    "intervention": "Highlight your credentials, experience, or endorsements from recognized authorities in the field.",
+    "example_response": "As a certified expert with over 10 years in this industry, I've helped many clients achieve similar results.",
+    "mechanism": "The principle of authority operates on the basis that individuals often rely on experts to guide their decisions, reducing perceived risk and increasing trust in the proposed solution."
+  },
+  {
+    "principle_id": "cialdini_liking_01",
+    "name": "Liking",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 5,
+      "page": "126-156",
+      "chapter_name": "Liking",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_05.md"
+    },
+    "definition": "The Liking principle suggests that people are more likely to say yes to individuals they like. Establishing rapport and finding common ground can significantly influence buying behavior.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "'I really like your approach.'",
+      "'You seem to understand my needs.'"
+    ],
+    "contrary_signals": [
+      "'I'm ready to move forward.'",
+      "'This is exactly what I need.'"
+    ],
+    "intervention": "Focus on building rapport by finding common interests or experiences.",
+    "example_response": "'I appreciate your feedback! It sounds like we have a lot in common, which is great for understanding your needs better.'",
+    "mechanism": "The principle of liking operates on the basis that we are more inclined to trust and be influenced by those we feel a connection with, often due to shared interests or positive interactions."
+  },
+  {
+    "principle_id": "cialdini_scarcity_01",
+    "name": "Scarcity",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 7,
+      "page": "178-204",
+      "chapter_name": "Scarcity",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_07.md"
+    },
+    "definition": "Scarcity creates a sense of urgency and increases the perceived value of a product, prompting quicker purchasing decisions.",
+    "triggers": [
+      "prospect_delaying",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What are others paying?",
+      "Can you send me information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "When can we start?"
+    ],
+    "intervention": "Emphasize limited availability or time constraints.",
+    "example_response": "We only have 3 spots left this quarter—would you like to secure one?",
+    "mechanism": "Loss aversion makes scarcity more motivating than abundance."
+  },
+  {
+    "principle_id": "cialdini_commitment_and_consistency_01",
+    "name": "Commitment and Consistency",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 3,
+      "page": "43-86",
+      "chapter_name": "Commitment and Consistency",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_03.md"
+    },
+    "definition": "This principle suggests that once a customer commits to a decision, they are more likely to remain consistent with that commitment, influencing their future buying behavior.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?",
+      "I'm not sure if this is the right choice"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Encourage small initial commitments to build towards larger agreements.",
+    "example_response": "If you can agree to a small trial, we can then discuss the full package that meets your needs.",
+    "mechanism": "The desire for consistency drives individuals to align their future actions with their past commitments, reducing cognitive dissonance."
+  },
+  {
+    "principle_id": "cialdini_social_proof_01",
+    "name": "Social Proof",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 4,
+      "page": "87-125",
+      "chapter_name": "Social Proof",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_04.md"
+    },
+    "definition": "Social proof influences buying behavior by leveraging the tendency of individuals to look to others for guidance in uncertain situations, leading them to follow the actions or beliefs of the majority.",
+    "triggers": [
+      "seeking_validation",
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "What are others paying?",
+      "Can you provide testimonials?",
+      "I need to see what others think first."
+    ],
+    "contrary_signals": [
+      "Let's move forward.",
+      "I'm ready to sign.",
+      "This is exactly what we need."
+    ],
+    "intervention": "Highlight testimonials or case studies from satisfied customers to demonstrate the popularity and effectiveness of the product.",
+    "example_response": "Many of our clients have seen great results; for instance, Company X reported a 30% increase in efficiency after using our product.",
+    "mechanism": "Social proof reduces perceived risk in uncertain decisions by providing evidence that others have made similar choices and found them beneficial."
+  },
+  {
+    "principle_id": "voss_open_ended_questions_01",
+    "name": "Calibrated Questions",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 1,
+      "page": "12",
+      "chapter_name": "The New Rules",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_01.md"
+    },
+    "definition": "Calibrated questions shift the focus of the conversation from the negotiator's response to the counterpart's problem-solving, allowing the negotiator to maintain control while appearing to give the other party power.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering"
+    ],
+    "signals": [
+      "How am I supposed to do that?",
+      "What do you want me to do?"
+    ],
+    "contrary_signals": [
+      "Let's move forward.",
+      "I'm ready to sign."
+    ],
+    "intervention": "Use open-ended questions to redirect the conversation and buy time.",
+    "example_response": "What are the challenges you see in making this decision?",
+    "mechanism": "Open-ended questions create a sense of autonomy and control for the counterpart, which can lead to them revealing more information and ultimately making concessions."
+  },
+  {
+    "principle_id": "voss_be_a_mirror_01",
+    "name": "Be a Mirror",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 2,
+      "page": "36-69",
+      "chapter_name": "Be a Mirror",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_02.md"
+    },
+    "definition": "Mirroring involves reflecting the other person's words or emotions to create rapport and make them feel understood, which can lead to a more open and productive conversation.",
+    "triggers": [
+      "information_gathering",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I just want to make sure I understand your concerns.",
+      "Can you tell me more about what you're feeling?"
+    ],
+    "contrary_signals": [
+      "I feel confident about this decision.",
+      "Let's move forward with the agreement."
+    ],
+    "intervention": "Focus on active listening and repeat back key phrases to validate the other person's feelings.",
+    "example_response": "It sounds like you're really concerned about the budget—can you share more about that?",
+    "mechanism": "Mirroring creates a sense of empathy and connection, which can lower defenses and encourage more honest communication."
+  },
+  {
+    "principle_id": "voss_labeling_01",
+    "name": "Labeling",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 3,
+      "page": "70-101",
+      "chapter_name": "Don't Feel Their Pain, Label It",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_03.md"
+    },
+    "definition": "Labeling is a technique used to validate someone's emotions by acknowledging them, which helps build rapport and trust in a sales conversation.",
+    "triggers": [
+      "customer_anxiety",
+      "customer_confusion",
+      "customer_resistance"
+    ],
+    "signals": [
+      "I feel overwhelmed by the options.",
+      "I'm worried about making the wrong choice.",
+      "This seems too complicated for me."
+    ],
+    "contrary_signals": [
+      "I'm excited to move forward!",
+      "This is exactly what I was looking for.",
+      "I trust your recommendation."
+    ],
+    "intervention": "Use phrases that acknowledge the customer's feelings, such as 'It seems like you're feeling uncertain about this decision.'",
+    "example_response": "It sounds like you're feeling a bit overwhelmed with all the options we discussed. Can I help clarify anything for you?",
+    "mechanism": "Labeling helps shift the focus from fear and anxiety to rational thinking, reducing emotional intensity and facilitating better decision-making."
+  },
+  {
+    "principle_id": "voss_beware_yes_01",
+    "name": "Beware Yes—Master No",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 4,
+      "page": "102-129",
+      "chapter_name": "Beware Yes—Master No",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_04.md"
+    },
+    "definition": "This principle emphasizes that pushing for 'Yes' can lead to insincerity and hidden objections, while allowing the prospect to say 'No' creates a more open and honest negotiation environment.",
+    "triggers": [
+      "price_resistant",
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "That's outside our budget",
+      "Can you send me more information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Invite the prospect to say 'No' early in the conversation to create a more comfortable negotiation space.",
+    "example_response": "I understand if this isn't the right fit for you—would you like to discuss what might work better?",
+    "mechanism": "Allowing a person to say 'No' satisfies their need for autonomy and control, reducing defensiveness and opening the door for more constructive dialogue."
+  },
+  {
+    "principle_id": "voss_thats_right_01",
+    "name": "Trigger the Two Words That Immediately Transform Any Negotiation",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 5,
+      "page": "130-151",
+      "chapter_name": "Trigger the Two Words That Immediately Transform Any Negotiation",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_05.md"
+    },
+    "definition": "This principle emphasizes the importance of achieving a breakthrough moment in negotiations by prompting the counterpart to acknowledge their agreement with your perspective, leading to deeper trust and influence.",
+    "triggers": [
+      "seeking_validation",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I see what you mean.",
+      "That makes sense.",
+      "I can agree with that."
+    ],
+    "contrary_signals": [
+      "Let's move forward.",
+      "I'm ready to sign.",
+      "This is exactly what we need."
+    ],
+    "intervention": "Summarize the key points of the discussion to create a moment of agreement.",
+    "example_response": "It sounds like what you're saying is that you need more flexibility in the pricing—would you agree with that?",
+    "mechanism": "The psychological principle of cognitive dissonance suggests that when individuals articulate agreement with a statement, they are more likely to align their behavior with that belief, leading to a deeper commitment."
+  },
+  {
+    "principle_id": "voss_deadlines_01",
+    "name": "Make Time Your Ally",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 6,
+      "page": "164",
+      "chapter_name": "Bend Their Reality",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_06.md"
+    },
+    "definition": "Utilizing deadlines can create urgency and pressure, leading to impulsive decisions that may not align with the buyer's best interests.",
+    "triggers": [
+      "price_resistant",
+      "low_urgency",
+      "prospect_delaying"
+    ],
+    "signals": [
+      "I need to decide quickly.",
+      "What happens if I miss this deadline?",
+      "Can you give me a better offer before the end of the month?"
+    ],
+    "contrary_signals": [
+      "I can take my time with this.",
+      "There's no rush on my end.",
+      "I'm not worried about deadlines."
+    ],
+    "intervention": "Create a sense of urgency by highlighting the consequences of missing deadlines.",
+    "example_response": "This offer is only available until the end of the week—would you like to take advantage of it now?",
+    "mechanism": "The fear of loss associated with deadlines can trigger impulsive decision-making, leading to quicker agreements."
+  },
+  {
+    "principle_id": "voss_compromise_01",
+    "name": "Don't Compromise",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 6,
+      "page": "153",
+      "chapter_name": "Bend Their Reality",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_06.md"
+    },
+    "definition": "Compromise often leads to suboptimal outcomes in negotiations, as it can result in neither party being satisfied with the deal.",
+    "triggers": [
+      "seeking_validation",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "Let's just split the difference.",
+      "What if we meet halfway?",
+      "I think we can come to a compromise."
+    ],
+    "contrary_signals": [
+      "I'm ready to sign.",
+      "This is exactly what we need.",
+      "Let's move forward."
+    ],
+    "intervention": "Emphasize the risks of compromise and encourage creative solutions instead.",
+    "example_response": "Instead of compromising, let's explore a solution that truly meets your needs.",
+    "mechanism": "Compromise can lead to cognitive dissonance, where neither party feels satisfied, as it often sacrifices the best possible outcome for the sake of ease."
+  },
+  {
+    "principle_id": "voss_create_the_illusion_of_control_01",
+    "name": "Create the Illusion of Control",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 7,
+      "page": "188-215",
+      "chapter_name": "Create the Illusion of Control",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_07.md"
+    },
+    "definition": "This principle allows the salesperson to guide the conversation while making the customer feel empowered and in control, which can lead to more favorable outcomes.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What do you think I should do?",
+      "Can you help me decide?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Use calibrated questions to guide the conversation without appearing aggressive.",
+    "example_response": "What do you think would be the best way for us to move forward together?",
+    "mechanism": "The illusion of control makes customers feel more engaged and less pressured, which can reduce resistance and increase the likelihood of a positive decision."
+  },
+  {
+    "principle_id": "voss_guarantee_execution_01",
+    "name": "Yes is nothing without How",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 8,
+      "page": "216",
+      "chapter_name": "Guarantee Execution",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_08.md"
+    },
+    "definition": "This principle emphasizes that gaining agreement is not enough; the focus should be on ensuring that the agreement can be executed effectively.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "How can we make this work?",
+      "What are the next steps?",
+      "I need to think about how this will fit."
+    ],
+    "contrary_signals": [
+      "I'm ready to move forward.",
+      "Let's finalize the details.",
+      "This sounds perfect, let's get started."
+    ],
+    "intervention": "Use calibrated 'How' questions to guide the conversation and ensure clarity on execution.",
+    "example_response": "How can we ensure that this plan will work for you?",
+    "mechanism": "Calibrated questions create a collaborative environment, prompting the counterpart to consider their own demands while feeling respected and engaged."
+  },
+  {
+    "principle_id": "voss_bargaining_01",
+    "name": "Bargain Hard",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 9,
+      "page": "249-280",
+      "chapter_name": "Bargain Hard",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_09.md"
+    },
+    "definition": "This principle emphasizes the importance of strategic negotiation tactics and psychological dynamics in achieving favorable outcomes during bargaining.",
+    "triggers": [
+      "prospect_delaying",
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I can pay $30,000.",
+      "I just can't do that price.",
+      "This is really embarrassing."
+    ],
+    "contrary_signals": [
+      "Let's move forward.",
+      "I'm ready to sign.",
+      "This is exactly what we need."
+    ],
+    "intervention": "Use silence strategically to create discomfort and encourage the other party to make concessions.",
+    "example_response": "I understand your position, but I really can't go higher than $30,000.",
+    "mechanism": "Silence creates psychological pressure, prompting the other party to fill the void, often leading to concessions or more favorable terms."
+  },
+  {
+    "principle_id": "voss_black_swan_01",
+    "name": "Find the Black Swan",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 10,
+      "page": "281-320",
+      "chapter_name": "Find the Black Swan",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_10.md"
+    },
+    "definition": "The principle of finding Black Swans emphasizes uncovering hidden information that can dramatically change the outcome of a negotiation, leading to unexpected breakthroughs in sales.",
+    "triggers": [
+      "information_gathering",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I'm not sure what I want.",
+      "I need to think about this more.",
+      "What else should I consider?"
+    ],
+    "contrary_signals": [
+      "This is exactly what we need.",
+      "I’m ready to move forward.",
+      "Let’s finalize the details."
+    ],
+    "intervention": "Ask open-ended questions to uncover hidden needs and motivations.",
+    "example_response": "What challenges are you currently facing that we haven't discussed yet?",
+    "mechanism": "By using open-ended questions, the salesperson encourages the customer to reveal unknown unknowns, which can provide leverage and lead to a more favorable negotiation outcome."
+  },
+  {
+    "principle_id": "kahneman_systems_01",
+    "name": "Two Systems",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 1,
+      "page": "19-29",
+      "chapter_name": "The Characters of the Story",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_01.md"
+    },
+    "definition": "Understanding the distinction between System 1 (fast, automatic thinking) and System 2 (slow, deliberate thinking) helps salespeople tailor their approach to align with the customer's cognitive processes.",
+    "triggers": [
+      "information_gathering",
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?",
+      "What are others paying?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Encourage the customer to visualize the benefits of the product, appealing to their intuitive feelings.",
+    "example_response": "Imagine how much easier your life will be once you start using this product—can you see that?",
+    "mechanism": "System 1's automatic responses can be influenced by emotional appeals, making customers more receptive to suggestions that align with their intuitive feelings."
+  },
+  {
+    "principle_id": "kahneman_attention_effort_01",
+    "name": "Attention and Effort",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 2,
+      "page": "30-35",
+      "chapter_name": "Attention and Effort",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_02.md"
+    },
+    "definition": "This principle highlights that customers are often reluctant to invest mental effort in decision-making, which can lead to procrastination or indecision in the buying process.",
+    "triggers": [
+      "prospect_delaying",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?",
+      "I'm not sure if this is the right choice."
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need."
+    ],
+    "intervention": "Emphasize the simplicity and ease of making a decision to reduce perceived effort.",
+    "example_response": "I can assure you that this solution is straightforward and will save you time in the long run—are you ready to take the next step?",
+    "mechanism": "Reducing cognitive load makes it easier for customers to make decisions, as they are less likely to feel overwhelmed by the complexity of the choice."
+  },
+  {
+    "principle_id": "kahneman_lazy_controller_01",
+    "name": "The Lazy Controller",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 3,
+      "page": "36-44",
+      "chapter_name": "The Lazy Controller",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_03.md"
+    },
+    "definition": "This principle suggests that consumers often prefer to avoid effortful decision-making, leading them to delay purchases or seek simpler options, impacting their buying behavior.",
+    "triggers": [
+      "prospect_delaying",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?",
+      "I'm not sure if this is the right choice."
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need."
+    ],
+    "intervention": "Emphasize the ease of making a decision and reduce the perceived effort required.",
+    "example_response": "This solution is straightforward and can be implemented quickly—would you like to get started today?",
+    "mechanism": "The principle of least effort indicates that when faced with complex decisions, individuals may avoid making a choice altogether, leading to procrastination or indecision."
+  },
+  {
+    "principle_id": "kahneman_associative_activation_01",
+    "name": "Associative Activation",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 4,
+      "page": "45-52",
+      "chapter_name": "The Associative Machine",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_04.md"
+    },
+    "definition": "Associative activation influences buying behavior by creating connections between ideas, emotions, and physical reactions, which can lead to a stronger inclination towards a product or service.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "I'm not sure if this is the right choice.",
+      "I need more information before deciding.",
+      "Can you explain how this works again?"
+    ],
+    "contrary_signals": [
+      "I'm ready to move forward with this.",
+      "This sounds perfect for us!",
+      "Let's finalize the details."
+    ],
+    "intervention": "Highlight positive associations related to the product, such as success stories or testimonials.",
+    "example_response": "Many of our clients have seen great results after using this product—would you like to hear some success stories?",
+    "mechanism": "The associative activation mechanism works by linking positive emotions and memories to the product, making it more appealing and reducing perceived risk."
+  },
+  {
+    "principle_id": "kahneman_priming_effect_01",
+    "name": "Priming Effect",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 4,
+      "page": "45-52",
+      "chapter_name": "The Associative Machine",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_04.md"
+    },
+    "definition": "Priming can influence a customer's thoughts and behaviors unconsciously, making them more receptive to certain ideas or products.",
+    "triggers": [
+      "prospect_delaying",
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I'm not really in the mood to buy right now.",
+      "What are the prices like compared to others?",
+      "I need to think about this a bit more."
+    ],
+    "contrary_signals": [
+      "This is exactly what I was looking for!",
+      "I think we should go ahead with this.",
+      "When can we start using it?"
+    ],
+    "intervention": "Use language and concepts that align with the customer's needs and desires to create a favorable context for the product.",
+    "example_response": "Many of our clients who were initially hesitant found that once they started using our product, they couldn't imagine their workflow without it.",
+    "mechanism": "Priming works by activating related concepts in the customer's mind, which can influence their decision-making process without them being aware of it."
+  },
+  {
+    "principle_id": "kahneman_cognitive_ease_01",
+    "name": "Cognitive Ease",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 5,
+      "page": "53-62",
+      "chapter_name": "Cognitive Ease",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_05.md"
+    },
+    "definition": "Cognitive ease leads customers to feel comfortable and positive about a product, making them more likely to trust and buy it.",
+    "triggers": [
+      "low_urgency",
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?",
+      "That sounds interesting, but I want to compare options."
+    ],
+    "contrary_signals": [
+      "I'm ready to move forward",
+      "This is exactly what we need",
+      "Let's finalize the details."
+    ],
+    "intervention": "Emphasize clarity and simplicity in your messaging to enhance cognitive ease.",
+    "example_response": "Our product is designed to be user-friendly and straightforward—would you like to see a demo?",
+    "mechanism": "Cognitive ease reduces the mental effort required for decision-making, making customers more likely to accept information and feel positive about their choices."
+  },
+  {
+    "principle_id": "kahneman_norms_01",
+    "name": "Assessing Normality",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 6,
+      "page": "63-68",
+      "chapter_name": "Norms, Surprises, and Causes",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_06.md"
+    },
+    "definition": "This principle highlights how customers' expectations are shaped by their previous experiences, influencing their perception of what is normal and affecting their buying decisions.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I didn't expect that to happen.",
+      "Is this a common issue?",
+      "What do most people choose?"
+    ],
+    "contrary_signals": [
+      "This is exactly what I was looking for.",
+      "I'm ready to make a decision.",
+      "I trust this is the right choice."
+    ],
+    "intervention": "Highlight how your product aligns with common expectations and norms in the market.",
+    "example_response": "Many of our clients have found that this solution fits perfectly with their needs—would you like to join them?",
+    "mechanism": "The principle of normality influences decision-making by creating a cognitive bias where customers are more likely to accept options that align with their established norms and expectations."
+  },
+  {
+    "principle_id": "kahneman_surprise_01",
+    "name": "Capacity for Surprise",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 6,
+      "page": "65",
+      "chapter_name": "Norms, Surprises, and Causes",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_06.md"
+    },
+    "definition": "Surprise can significantly impact customer decisions, as unexpected features or offers can either create interest or skepticism.",
+    "triggers": [
+      "price_resistant",
+      "low_urgency"
+    ],
+    "signals": [
+      "That's not what I expected.",
+      "How can this be so affordable?"
+    ],
+    "contrary_signals": [
+      "This is just what I expected!",
+      "I knew this would be a great option."
+    ],
+    "intervention": "Introduce unique features or benefits that differentiate your product from competitors.",
+    "example_response": "What sets our product apart is its unique feature that no one else offers, which could really benefit you.",
+    "mechanism": "Surprise can capture attention and create curiosity, prompting customers to explore further, but it can also lead to doubt if the surprise is perceived negatively."
+  },
+  {
+    "principle_id": "kahneman_causes_01",
+    "name": "Seeing Causes and Intentions",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 6,
+      "page": "67",
+      "chapter_name": "Norms, Surprises, and Causes",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_06.md"
+    },
+    "definition": "Customers often look for causal explanations for their feelings and decisions, which can be leveraged to create compelling narratives around products.",
+    "triggers": [
+      "comparing_competitors",
+      "seeking_validation"
+    ],
+    "signals": [
+      "Why should I choose this over others?",
+      "What makes this the best option?"
+    ],
+    "contrary_signals": [
+      "I trust this brand completely.",
+      "I've heard great things about this product."
+    ],
+    "intervention": "Provide clear, logical reasons for why your product is the best choice, linking features to benefits.",
+    "example_response": "Our product's design directly addresses the common issues faced by users, ensuring you won't encounter the same problems as with others.",
+    "mechanism": "By establishing clear causal links between product features and customer needs, you help customers rationalize their purchasing decisions, enhancing their confidence."
+  },
+  {
+    "principle_id": "kahneman_jumping_to_conclusions_01",
+    "name": "A Machine for Jumping to Conclusions",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 7,
+      "page": "69-76",
+      "chapter_name": "A Machine for Jumping to Conclusions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_07.md"
+    },
+    "definition": "This principle highlights how customers often make quick judgments based on limited information, which can lead to premature conclusions about a product or service.",
+    "triggers": [
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?"
+    ],
+    "contrary_signals": [
+      "I'm ready to sign",
+      "Let's move forward"
+    ],
+    "intervention": "Encourage the customer to explore multiple perspectives and gather more information before making a decision.",
+    "example_response": "I understand you want to think it over; how about we discuss any specific concerns you have?",
+    "mechanism": "The tendency to jump to conclusions is driven by cognitive ease, where individuals prefer quick and simple answers, often neglecting the complexity of the situation."
+  },
+  {
+    "principle_id": "kahneman_belief_bias_01",
+    "name": "A Bias to Believe and Confirm",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 7,
+      "page": "69-76",
+      "chapter_name": "A Machine for Jumping to Conclusions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_07.md"
+    },
+    "definition": "This principle explains how customers are inclined to accept information that aligns with their existing beliefs, which can affect their purchasing decisions.",
+    "triggers": [
+      "seeking_validation",
+      "price_resistant"
+    ],
+    "signals": [
+      "What do others think about this?",
+      "Is this really worth the price?"
+    ],
+    "contrary_signals": [
+      "This is exactly what we need",
+      "I trust your recommendation"
+    ],
+    "intervention": "Provide evidence or testimonials that align with the customer's beliefs to reinforce their positive perception.",
+    "example_response": "Many of our clients have seen great results with this product; would you like to hear some success stories?",
+    "mechanism": "The confirmation bias leads customers to favor information that supports their pre-existing views, making it crucial for salespeople to present compatible evidence."
+  },
+  {
+    "principle_id": "kahneman_halo_effect_01",
+    "name": "Exaggerated Emotional Coherence (Halo Effect)",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 7,
+      "page": "69-76",
+      "chapter_name": "A Machine for Jumping to Conclusions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_07.md"
+    },
+    "definition": "This principle shows that a positive impression of one aspect of a product or service can lead to an overall favorable view, influencing the customer's decision-making process.",
+    "triggers": [
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I really like the design",
+      "This brand has a great reputation"
+    ],
+    "contrary_signals": [
+      "I need more details about the features",
+      "What are the downsides?"
+    ],
+    "intervention": "Highlight the strengths of the product while addressing any potential weaknesses to maintain a positive overall impression.",
+    "example_response": "I'm glad you like the design; it’s not just about looks, though—let me show you how it performs.",
+    "mechanism": "The halo effect causes individuals to generalize their positive feelings about one attribute to the entire product, simplifying their evaluation process."
+  },
+  {
+    "principle_id": "kahneman_basic_assessments_01",
+    "name": "Basic Assessments",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 8,
+      "page": "78",
+      "chapter_name": "How Judgments Happen",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_08.md"
+    },
+    "definition": "Basic assessments influence buying behavior by allowing customers to make quick, intuitive judgments about products based on their perceived value and emotional responses.",
+    "triggers": [
+      "prospect_delaying",
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "'I need to think about it'",
+      "'What are others paying?'",
+      "'Can you send me more information?'"
+    ],
+    "contrary_signals": [
+      "'Let's move forward'",
+      "'I'm ready to sign'",
+      "'This is exactly what we need'"
+    ],
+    "intervention": "Emphasize the positive attributes of the product and how it meets the customer's needs.",
+    "example_response": "'This product has received excellent reviews and has helped many customers just like you.'",
+    "mechanism": "System 1's rapid assessments create a mental shortcut that influences decision-making, often leading to intuitive judgments based on perceived value and emotional resonance."
+  },
+  {
+    "principle_id": "kahneman_intensity_matching_01",
+    "name": "Intensity Matching",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 18,
+      "page": "164",
+      "chapter_name": "Taming Intuitive Predictions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_18.md"
+    },
+    "definition": "Intensity matching involves equating the strength of evidence or impressions to a corresponding scale, which can lead to overconfidence in predictions.",
+    "triggers": [
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "That's outside our budget",
+      "Can you send me information?"
+    ],
+    "contrary_signals": [
+      "This is exactly what we need",
+      "When can we start?"
+    ],
+    "intervention": "Highlight the unique value and potential outcomes of the product to shift their perception of its worth.",
+    "example_response": "While I understand budget constraints, consider how this investment can significantly enhance your operations and lead to greater savings in the long run.",
+    "mechanism": "Intensity matching can cause individuals to project their impressions onto a scale that may not accurately reflect reality, leading to skewed expectations."
+  },
+  {
+    "principle_id": "kahneman_substitution_01",
+    "name": "Substitution",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 18,
+      "page": "162",
+      "chapter_name": "Taming Intuitive Predictions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_18.md"
+    },
+    "definition": "Substitution occurs when a complex question is replaced with a simpler one, leading to biased predictions based on available evidence rather than actual outcomes.",
+    "triggers": [
+      "information_gathering",
+      "comparing_competitors"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What are others paying?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign"
+    ],
+    "intervention": "Encourage the customer to consider the broader context and potential uncertainties involved in their decision.",
+    "example_response": "I understand your concerns; let’s look at how this solution can address your specific needs and the uncertainties you might face.",
+    "mechanism": "The cognitive bias of substitution leads individuals to rely on easily accessible information rather than engaging in deeper analysis, often resulting in flawed judgments."
+  },
+  {
+    "principle_id": "kahneman_law_of_small_numbers_01",
+    "name": "The Law of Small Numbers",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 10,
+      "page": "93-102",
+      "chapter_name": "The Law of Small Numbers",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_10.md"
+    },
+    "definition": "The Law of Small Numbers suggests that people tend to overestimate the reliability of small samples, leading to misjudgments about probabilities and outcomes, which can affect their purchasing decisions.",
+    "triggers": [
+      "information_gathering",
+      "comparing_competitors",
+      "price_resistant"
+    ],
+    "signals": [
+      "I need more information before deciding.",
+      "How do your results compare to others?",
+      "This price seems high compared to what I've seen."
+    ],
+    "contrary_signals": [
+      "I'm ready to make a decision.",
+      "This product is exactly what I need.",
+      "Let's finalize the details."
+    ],
+    "intervention": "Emphasize the reliability and proven success of larger samples or customer bases.",
+    "example_response": "Many of our clients have seen consistent results over time, and we have a large number of testimonials to back that up.",
+    "mechanism": "Cognitive biases, such as overconfidence in small samples, lead customers to draw conclusions from limited data, making them more susceptible to persuasive arguments that highlight broader success."
+  },
+  {
+    "principle_id": "kahneman_anchors_01",
+    "name": "Anchors",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 11,
+      "page": "103-111",
+      "chapter_name": "Anchors",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_11.md"
+    },
+    "definition": "Anchoring influences a customer's perception of value based on initial information, often leading them to base their estimates or decisions around that anchor, even if it's arbitrary.",
+    "triggers": [
+      "price_resistant",
+      "information_gathering",
+      "comparing_competitors"
+    ],
+    "signals": [
+      "That's a bit higher than I expected.",
+      "What are similar products priced at?",
+      "Can you justify that price?"
+    ],
+    "contrary_signals": [
+      "I'm ready to move forward.",
+      "This seems like a fair price.",
+      "I trust your recommendation."
+    ],
+    "intervention": "Present a higher initial price or value proposition to set a favorable anchor for negotiation.",
+    "example_response": "Our premium package starts at $5,000, but most clients find that our standard package at $3,000 offers great value.",
+    "mechanism": "The anchoring effect occurs because initial numbers or values create a cognitive reference point, leading to biased estimates and decisions based on that reference."
+  },
+  {
+    "principle_id": "kahneman_availability_01",
+    "name": "Availability",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 13,
+      "page": "119",
+      "chapter_name": "Availability, Emotion, and Risk",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_13.md"
+    },
+    "definition": "The availability heuristic leads customers to judge the likelihood of events based on how easily examples come to mind, which can skew their perception of risk and influence their purchasing decisions.",
+    "triggers": [
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "I've heard a lot about accidents lately.",
+      "I keep reading about disasters in the news."
+    ],
+    "contrary_signals": [
+      "I'm confident in this decision.",
+      "I don't see any risks with this product."
+    ],
+    "intervention": "Highlight recent positive testimonials or success stories to counteract negative perceptions.",
+    "example_response": "Many of our customers have reported great success with this product, especially in challenging situations.",
+    "mechanism": "The ease with which examples come to mind influences perception, leading customers to overestimate risks associated with alternatives."
+  },
+  {
+    "principle_id": "kahneman_representativeness_01",
+    "name": "Representativeness",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 14,
+      "page": "126-133",
+      "chapter_name": "Tom W's Specialty",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_14.md"
+    },
+    "definition": "The representativeness heuristic leads customers to judge the likelihood of an event based on how closely it resembles a typical case, often ignoring statistical base rates, which can skew their decision-making.",
+    "triggers": [
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "This product seems just like what I expected.",
+      "I feel like this is the right choice based on what I've seen."
+    ],
+    "contrary_signals": [
+      "I need to see more data before deciding.",
+      "I'm not sure this fits my needs."
+    ],
+    "intervention": "Highlight the statistical success rates or base rates of your product to counteract the reliance on representativeness.",
+    "example_response": "Many of our clients in your industry have seen a 30% increase in efficiency after using our solution—would you like to see the case studies?",
+    "mechanism": "The representativeness heuristic simplifies decision-making by allowing individuals to rely on stereotypes and familiar patterns, but it can lead to errors when base rates are neglected."
+  },
+  {
+    "principle_id": "kahneman_less_is_more_01",
+    "name": "Less is More",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 15,
+      "page": "134-142",
+      "chapter_name": "Linda: Less is More",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_15.md"
+    },
+    "definition": "This principle illustrates how simplifying choices can enhance perceived value, leading customers to prefer fewer options that appear more coherent and appealing.",
+    "triggers": [
+      "information_gathering",
+      "comparing_competitors",
+      "price_resistant"
+    ],
+    "signals": [
+      "I feel overwhelmed by too many choices.",
+      "Can you simplify this for me?",
+      "Why is this option better than the others?"
+    ],
+    "contrary_signals": [
+      "I love having lots of options!",
+      "The more features, the better!",
+      "I want to see everything available."
+    ],
+    "intervention": "Emphasize the benefits of a streamlined selection that meets their needs without overwhelming them.",
+    "example_response": "We have a curated selection of our best products that will perfectly fit your needs—would you like to see those?",
+    "mechanism": "Cognitive overload can lead to decision paralysis; presenting fewer, well-defined options can enhance clarity and increase the likelihood of a purchase."
+  },
+  {
+    "principle_id": "kahneman_causes_trump_statistics_01",
+    "name": "Causes Trump Statistics",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 16,
+      "page": "143-150",
+      "chapter_name": "Causes Trump Statistics",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_16.md"
+    },
+    "definition": "This principle highlights how people often prioritize causal narratives over statistical data when making judgments, which can lead to biased decision-making in sales.",
+    "triggers": [
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to know more about how this works.",
+      "What makes your product better than others?"
+    ],
+    "contrary_signals": [
+      "I'm convinced this is what we need.",
+      "Let's go ahead and finalize the deal."
+    ],
+    "intervention": "Emphasize the real-world success stories and testimonials that illustrate the effectiveness of your product.",
+    "example_response": "Many of our clients have seen a 30% increase in productivity after using our solution—would you like to hear their stories?",
+    "mechanism": "Causal reasoning allows individuals to connect specific outcomes to particular actions or products, making the narrative more persuasive than abstract statistics."
+  },
+  {
+    "principle_id": "kahneman_regression_to_the_mean_01",
+    "name": "Regression to the Mean",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 17,
+      "page": "151-159",
+      "chapter_name": "Regression to the Mean",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_17.md"
+    },
+    "definition": "In sales, customers may overestimate the likelihood of extreme outcomes based on recent experiences, leading to misjudgments about product performance or value.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "seeking_validation"
+    ],
+    "signals": [
+      "'I had a great experience last time, so I expect the same this time.'",
+      "'I’m not sure if this will work as well as the last product I tried.'"
+    ],
+    "contrary_signals": [
+      "'I’m ready to purchase right now.'",
+      "'This is exactly what I need for my situation.'"
+    ],
+    "intervention": "Highlight the average performance metrics and set realistic expectations to counteract overconfidence in extreme outcomes.",
+    "example_response": "'While last time was exceptional, our average customer sees consistent results that are reliable over time.'",
+    "mechanism": "Cognitive biases lead customers to misinterpret their past experiences as indicative of future performance, necessitating a recalibration of expectations."
+  },
+  {
+    "principle_id": "kahneman_intuitive_predictions_01",
+    "name": "Taming Intuitive Predictions",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 18,
+      "page": "160-168",
+      "chapter_name": "Taming Intuitive Predictions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_18.md"
+    },
+    "definition": "This principle highlights how intuitive judgments can be overly confident yet inaccurate, leading customers to make decisions based on flawed assumptions rather than concrete evidence.",
+    "triggers": [
+      "information_gathering",
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What are others paying?",
+      "Can you send me more information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Encourage customers to consider a broader range of evidence and provide them with data or testimonials that counter their intuitive judgments.",
+    "example_response": "I understand your concerns; let me share some success stories from clients who were in a similar situation.",
+    "mechanism": "The principle of substitution leads customers to rely on easily accessible information rather than considering all relevant data, resulting in biased predictions about the product's value."
+  },
+  {
+    "principle_id": "kahneman_illusion_of_understanding_01",
+    "name": "The Illusion of Understanding",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 19,
+      "page": "170-178",
+      "chapter_name": "The Illusion of Understanding",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_19.md"
+    },
+    "definition": "This principle highlights how overconfidence in our understanding of past events can lead to misguided expectations about future outcomes, affecting decision-making in sales.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it.",
+      "What are others paying?",
+      "Can you send me more information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward.",
+      "I'm ready to sign.",
+      "This is exactly what we need."
+    ],
+    "intervention": "Emphasize the unpredictability of outcomes and the role of luck in success stories.",
+    "example_response": "Many successful companies had to navigate unexpected challenges—let's discuss how we can prepare for any surprises together.",
+    "mechanism": "Cognitive biases like overconfidence and hindsight bias lead individuals to misjudge their understanding of events, making them susceptible to flawed narratives that can influence their purchasing decisions."
+  },
+  {
+    "principle_id": "kahneman_illusion_of_validity_01",
+    "name": "The Illusion of Validity",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 20,
+      "page": "179-188",
+      "chapter_name": "The Illusion of Validity",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_20.md"
+    },
+    "definition": "The Illusion of Validity leads customers to overestimate the reliability of their judgments based on limited evidence, which can result in poor decision-making during the buying process.",
+    "triggers": [
+      "seeking_validation",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I feel confident about this option.",
+      "This seems like the right choice for us.",
+      "I believe this product will meet our needs."
+    ],
+    "contrary_signals": [
+      "I'm not sure about this.",
+      "I need more information before deciding.",
+      "Can you explain why this is the best option?"
+    ],
+    "intervention": "Encourage the customer to consider additional evidence or perspectives that challenge their initial confidence.",
+    "example_response": "I understand you feel confident, but let’s look at some case studies that show how this product has performed in different scenarios.",
+    "mechanism": "Cognitive biases, such as overconfidence and the representativeness heuristic, lead individuals to trust their judgments based on limited information, which can skew their decision-making process."
+  },
+  {
+    "principle_id": "kahneman_intuitions_vs_formulas_01",
+    "name": "Intuitions vs. Formulas",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 21,
+      "page": "189-197",
+      "chapter_name": "Intuitions Vs. Formulas",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_21.md"
+    },
+    "definition": "This principle highlights that statistical formulas often outperform expert intuitions in making predictions, impacting how salespeople should approach customer decision-making.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What do others think?",
+      "Can you provide more data?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Emphasize the reliability and accuracy of data-driven solutions over personal opinions.",
+    "example_response": "Our data shows that 85% of customers who chose this option reported significant improvements—would you like to join them?",
+    "mechanism": "The reliance on statistical data reduces the influence of cognitive biases and emotional fluctuations, leading to more consistent and valid decision-making."
+  },
+  {
+    "principle_id": "kahneman_expert_intuition_01",
+    "name": "Expert Intuition: When Can We Trust It?",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 22,
+      "page": "198-206",
+      "chapter_name": "Expert Intuition: When Can We Trust It?",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_22.md"
+    },
+    "definition": "Understanding when to trust expert intuition can enhance decision-making in sales, allowing salespeople to leverage their experience and knowledge effectively.",
+    "triggers": [
+      "seeking_validation",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I'm not sure if this is the right choice.",
+      "Can you explain why this is the best option?",
+      "I need to hear more about your experience."
+    ],
+    "contrary_signals": [
+      "This sounds perfect for us.",
+      "I trust your expertise on this.",
+      "Let's go ahead and finalize the deal."
+    ],
+    "intervention": "Highlight your expertise and past successes to build trust.",
+    "example_response": "Based on my experience with similar clients, I can assure you this solution will meet your needs.",
+    "mechanism": "The recognition-primed decision model suggests that expertise allows for rapid assessment of situations, leading to quicker and more confident decisions."
+  },
+  {
+    "principle_id": "kahneman_outside_view_01",
+    "name": "The Outside View",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 23,
+      "page": "207-214",
+      "chapter_name": "The Outside View",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_23.md"
+    },
+    "definition": "The Outside View encourages decision-makers to consider statistical outcomes from similar cases rather than relying solely on their specific circumstances, which can lead to more realistic expectations in sales.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation",
+      "low_urgency",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What are others paying?",
+      "Can you send me information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Emphasize the success rates and timelines of similar customers or projects to provide a realistic perspective.",
+    "example_response": "Based on similar clients, most of them found that the implementation took about three months and had a 70% satisfaction rate.",
+    "mechanism": "The use of base-rate information helps to anchor expectations and reduces the impact of overly optimistic personal assessments, leading to more informed decision-making."
+  },
+  {
+    "principle_id": "kahneman_optimistic_bias_01",
+    "name": "Optimistic Bias",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 24,
+      "page": "215-223",
+      "chapter_name": "The Engine of Capitalism",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_24.md"
+    },
+    "definition": "Optimistic bias leads individuals to overestimate their chances of success and underestimate risks, which can influence their purchasing decisions and willingness to invest in products.",
+    "triggers": [
+      "price_resistant",
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "I think this will work out well for us.",
+      "I believe we can achieve our goals with this product."
+    ],
+    "contrary_signals": [
+      "I'm not sure this is the right choice.",
+      "What if this doesn't work out?"
+    ],
+    "intervention": "Highlight success stories and positive outcomes associated with the product.",
+    "example_response": "Many of our clients have seen great results with this solution—would you like to hear some success stories?",
+    "mechanism": "Optimism can create a positive outlook that reduces perceived risks, making customers more likely to engage with a product."
+  },
+  {
+    "principle_id": "kahneman_planning_fallacy_01",
+    "name": "Planning Fallacy",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 24,
+      "page": "215-223",
+      "chapter_name": "The Engine of Capitalism",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_24.md"
+    },
+    "definition": "The planning fallacy causes individuals to underestimate the time and resources needed to achieve their goals, which can lead to impulsive purchasing decisions.",
+    "triggers": [
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "I think we can implement this quickly.",
+      "This seems easy to integrate into our current system."
+    ],
+    "contrary_signals": [
+      "I'm worried about the timeline for this.",
+      "What if this takes longer than expected?"
+    ],
+    "intervention": "Provide realistic timelines and potential challenges to set proper expectations.",
+    "example_response": "While many clients have successfully implemented this quickly, it's important to consider the potential challenges that might arise.",
+    "mechanism": "By addressing the planning fallacy, you help customers form a more accurate picture of the commitment required, reducing the likelihood of future dissatisfaction."
+  },
+  {
+    "principle_id": "kahneman_bernoullis_errors_01",
+    "name": "Bernoulli's Errors",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 25,
+      "page": "226-233",
+      "chapter_name": "Bernoulli's Errors",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_25.md"
+    },
+    "definition": "This principle illustrates that individuals often prefer certain outcomes over uncertain ones, even when the expected value of the uncertain option is higher, leading to risk aversion in purchasing decisions.",
+    "triggers": [
+      "price_resistant",
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "I would feel more comfortable with a guaranteed option.",
+      "That price seems a bit high for something uncertain.",
+      "Can you assure me that this will definitely work?"
+    ],
+    "contrary_signals": [
+      "I'm willing to take a chance if the reward is worth it.",
+      "I trust this product enough to invest in it.",
+      "Let's go ahead with the gamble."
+    ],
+    "intervention": "Emphasize the guaranteed benefits and reliability of the product over uncertain outcomes.",
+    "example_response": "I understand that uncertainty can be daunting, but with our product, you have a guaranteed return on your investment.",
+    "mechanism": "The principle of diminishing marginal utility explains that as wealth increases, the additional satisfaction gained from further increases in wealth decreases, leading individuals to prefer certain outcomes to avoid the discomfort of risk."
+  },
+  {
+    "principle_id": "kahneman_loss_aversion_01",
+    "name": "Loss Aversion",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 34,
+      "page": "307-316",
+      "chapter_name": "Frames and Reality",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_34.md"
+    },
+    "definition": "Customers are more motivated to avoid losses than to achieve equivalent gains, which can influence their purchasing decisions.",
+    "triggers": [
+      "price_resistant",
+      "comparing_competitors"
+    ],
+    "signals": [
+      "What if I lose money on this?",
+      "I'm worried about the risks involved.",
+      "I don't want to make a bad investment."
+    ],
+    "contrary_signals": [
+      "I'm ready to invest!",
+      "This seems like a great opportunity!",
+      "I trust this will work out well."
+    ],
+    "intervention": "Emphasize the potential losses of not taking action rather than just the benefits of the product.",
+    "example_response": "By not choosing this option, you could miss out on significant savings that others are already benefiting from.",
+    "mechanism": "Loss aversion suggests that the pain of losing is psychologically more impactful than the pleasure of gaining, driving customers to make safer choices."
+  },
+  {
+    "principle_id": "kahneman_reference_point_01",
+    "name": "Reference Point",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 26,
+      "page": "234-243",
+      "chapter_name": "Prospect Theory",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_26.md"
+    },
+    "definition": "The reference point is the baseline from which customers evaluate gains and losses, influencing their perceptions of value and decision-making.",
+    "triggers": [
+      "information_gathering",
+      "seeking_validation"
+    ],
+    "signals": [
+      "What do others think about this?",
+      "How does this compare to what I currently have?",
+      "What are the typical prices for this?"
+    ],
+    "contrary_signals": [
+      "This is exactly what I need.",
+      "I feel confident about this choice.",
+      "I trust your recommendation."
+    ],
+    "intervention": "Clarify the value of your product in relation to the customer's current situation or expectations.",
+    "example_response": "Compared to your current solution, this will save you time and money.",
+    "mechanism": "Customers evaluate options based on their reference points, making it crucial to frame your product as a clear improvement over their current state."
+  },
+  {
+    "principle_id": "kahneman_diminishing_sensitivity_01",
+    "name": "Diminishing Sensitivity",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 26,
+      "page": "234-243",
+      "chapter_name": "Prospect Theory",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_26.md"
+    },
+    "definition": "Diminishing sensitivity indicates that as gains or losses increase, the incremental impact on the customer's perception of value decreases.",
+    "triggers": [
+      "price_resistant",
+      "comparing_competitors"
+    ],
+    "signals": [
+      "I don't see much difference between these options.",
+      "The price difference isn't significant enough for me.",
+      "I can't justify spending more for a little extra."
+    ],
+    "contrary_signals": [
+      "This feature is a game changer for me.",
+      "I see a lot of value in this upgrade.",
+      "The additional cost is worth it for the benefits."
+    ],
+    "intervention": "Highlight the unique features or benefits that set your product apart, emphasizing their value.",
+    "example_response": "While the price difference may seem small, the additional features will significantly enhance your experience.",
+    "mechanism": "As customers experience larger gains or losses, they become less sensitive to changes, making it essential to emphasize unique selling points to maintain perceived value."
+  },
+  {
+    "principle_id": "kahneman_endowment_effect_01",
+    "name": "The Endowment Effect",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 27,
+      "page": "244-252",
+      "chapter_name": "The Endowment Effect",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_27.md"
+    },
+    "definition": "The endowment effect causes individuals to assign more value to items they own compared to items they do not own, impacting their willingness to sell or trade.",
+    "triggers": [
+      "price_resistant",
+      "comparing_competitors",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I can't sell it for that price.",
+      "I feel like I would lose too much if I let it go.",
+      "This is mine; I don't want to part with it."
+    ],
+    "contrary_signals": [
+      "I'm ready to move on.",
+      "I can let it go if the price is right.",
+      "I'm open to selling."
+    ],
+    "intervention": "Highlight the unique benefits and features of the product to reinforce its value.",
+    "example_response": "I understand how much you value this; let me show you how it can benefit you even more.",
+    "mechanism": "Loss aversion makes individuals perceive the loss of an owned item as more significant than the potential gain from acquiring a new item, leading to reluctance in selling."
+  },
+  {
+    "principle_id": "kahneman_possibility_effect_01",
+    "name": "Possibility Effect",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 29,
+      "page": "261-270",
+      "chapter_name": "The Fourfold Pattern",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_29.md"
+    },
+    "definition": "The possibility effect causes individuals to overweight small probabilities, making them more attractive than they statistically warrant, which can lead to irrational purchasing behavior.",
+    "triggers": [
+      "seeking_high_risk_rewards",
+      "lottery_ticket_purchase",
+      "overvaluing_unlikely_outcomes"
+    ],
+    "signals": [
+      "I can't believe I could win that much!",
+      "What if I actually win?",
+      "It’s a small chance, but it’s worth a shot!"
+    ],
+    "contrary_signals": [
+      "I don't think it's worth the risk.",
+      "The odds are too low for me.",
+      "I prefer guaranteed outcomes."
+    ],
+    "intervention": "Highlight the potential for high rewards from low-probability events, emphasizing the excitement of possibility.",
+    "example_response": "With just a 2% chance, you could win $10,000—imagine what you could do with that!",
+    "mechanism": "The possibility effect stems from cognitive biases that amplify the allure of unlikely outcomes, making them seem more significant and desirable."
+  },
+  {
+    "principle_id": "kahneman_certainty_effect_01",
+    "name": "Certainty Effect",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 29,
+      "page": "261-270",
+      "chapter_name": "The Fourfold Pattern",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_29.md"
+    },
+    "definition": "The certainty effect leads individuals to prefer outcomes that are almost certain over those that are slightly more probable, even if the expected value is lower.",
+    "triggers": [
+      "seeking_guaranteed_outcomes",
+      "risk_aversion",
+      "preference_for_sure_wins"
+    ],
+    "signals": [
+      "I’d rather have a sure thing than take a risk.",
+      "I feel more comfortable with guaranteed outcomes.",
+      "Can you assure me this will work?"
+    ],
+    "contrary_signals": [
+      "I’m willing to take a chance.",
+      "I want to maximize my potential gains.",
+      "Let’s go for the higher risk option."
+    ],
+    "intervention": "Emphasize the security and peace of mind that comes with guaranteed outcomes, even if they are slightly less valuable.",
+    "example_response": "For just a little less, you can secure a guaranteed return—wouldn't that give you peace of mind?",
+    "mechanism": "The certainty effect is driven by loss aversion, where the fear of losing outweighs the potential for gain, leading to a preference for assured outcomes."
+  },
+  {
+    "principle_id": "kahneman_rare_events_01",
+    "name": "Rare Events",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 30,
+      "page": "271-281",
+      "chapter_name": "Rare Events",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_30.md"
+    },
+    "definition": "The perception of rare events can lead to an exaggerated sense of risk or opportunity, influencing customers' decision-making processes and making them more likely to act on fear or excitement.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "I'm worried about the risks involved.",
+      "What if something goes wrong?",
+      "I've heard a lot about people losing money in situations like this."
+    ],
+    "contrary_signals": [
+      "I'm confident this is the right choice.",
+      "Let's proceed with the purchase.",
+      "I trust this will work out well."
+    ],
+    "intervention": "Highlight the rarity of negative outcomes and emphasize the positive possibilities associated with the product.",
+    "example_response": "Many customers have had great success with this product, and the chances of any issues arising are extremely low—would you like to move forward?",
+    "mechanism": "The availability heuristic causes individuals to overestimate the likelihood of rare events based on vivid memories or media coverage, leading to heightened emotional responses that can skew decision-making."
+  },
+  {
+    "principle_id": "kahneman_risk_aversion_01",
+    "name": "Risk Aversion",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 31,
+      "page": "282",
+      "chapter_name": "Risk Policies",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_31.md"
+    },
+    "definition": "Risk aversion leads customers to prefer certain gains over uncertain ones, impacting their willingness to engage in higher-risk purchases.",
+    "triggers": [
+      "prospect_delaying",
+      "price_resistant",
+      "seeking_validation"
+    ],
+    "signals": [
+      "'I prefer to play it safe.'",
+      "'Can you guarantee this outcome?'",
+      "'What if I lose money?'"
+    ],
+    "contrary_signals": [
+      "'I'm ready to invest!'",
+      "'This seems like a great opportunity!'",
+      "'Let's move forward with this!'"
+    ],
+    "intervention": "Emphasize the guaranteed benefits and minimize the perceived risks associated with the purchase.",
+    "example_response": "'This product comes with a money-back guarantee, so you can feel secure in your investment.'",
+    "mechanism": "Loss aversion makes the fear of losing outweigh the potential pleasure of gaining, leading customers to favor options that ensure certainty."
+  },
+  {
+    "principle_id": "kahneman_broad_framing_01",
+    "name": "Broad Framing",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 31,
+      "page": "286",
+      "chapter_name": "Risk Policies",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_31.md"
+    },
+    "definition": "Broad framing allows customers to view decisions as part of a larger context, reducing the emotional impact of individual losses and encouraging risk-taking.",
+    "triggers": [
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "'I need to think about all my options.'",
+      "'Can you show me how this fits into my overall plan?'"
+    ],
+    "contrary_signals": [
+      "'I'm ready to make a decision now!'",
+      "'This is exactly what I need!'"
+    ],
+    "intervention": "Encourage customers to consider the purchase as part of a larger portfolio of decisions, highlighting how it fits into their overall goals.",
+    "example_response": "'Think of this product as a key component of your overall strategy for success.'",
+    "mechanism": "By framing decisions broadly, customers can mitigate the emotional weight of individual losses, making them more willing to take calculated risks."
+  },
+  {
+    "principle_id": "kahneman_keepingscore_01",
+    "name": "Keeping Score",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 32,
+      "page": "289-297",
+      "chapter_name": "Keeping Score",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_32.md"
+    },
+    "definition": "The principle of keeping score influences buyers by creating a mental accounting system where they evaluate their decisions based on perceived gains and losses, affecting their willingness to commit to purchases.",
+    "triggers": [
+      "price_resistant",
+      "seeking_validation",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What if I regret this decision?",
+      "Can you show me how this compares to others?"
+    ],
+    "contrary_signals": [
+      "I'm ready to sign",
+      "This is exactly what we need",
+      "Let's move forward"
+    ],
+    "intervention": "Emphasize the unique benefits and value of your product to create a positive mental account.",
+    "example_response": "This solution has helped many similar clients achieve their goals—would you like to see some success stories?",
+    "mechanism": "Mental accounting leads buyers to weigh their emotional investments and perceived losses heavily, making them more cautious in their decision-making."
+  },
+  {
+    "principle_id": "kahneman_reversals_01",
+    "name": "Reversals",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 33,
+      "page": "298-306",
+      "chapter_name": "Reversals",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_33.md"
+    },
+    "definition": "Reversals highlight how people's preferences can change based on the context in which choices are presented, impacting their buying decisions.",
+    "triggers": [
+      "single_evaluation",
+      "joint_evaluation",
+      "contextual_comparison"
+    ],
+    "signals": [
+      "I prefer this option when I think about it alone.",
+      "This seems better when I compare it to something else."
+    ],
+    "contrary_signals": [
+      "I'm confident in my choice.",
+      "I don't need to compare; I know what I want."
+    ],
+    "intervention": "Encourage joint evaluation of options to reveal true preferences.",
+    "example_response": "Let's look at how this product compares to others in the market side by side.",
+    "mechanism": "The joint evaluation process engages System 2 thinking, leading to more rational decision-making and revealing true preferences that might be obscured in single evaluations."
+  },
+  {
+    "principle_id": "kahneman_emotional_framing_01",
+    "name": "Emotional Framing",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 34,
+      "page": "307-316",
+      "chapter_name": "Frames and Reality",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_34.md"
+    },
+    "definition": "Emotional framing affects how customers perceive outcomes based on the language used, leading to different emotional responses and decision-making processes.",
+    "triggers": [
+      "price_resistant",
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "I don't like the way this is presented.",
+      "That sounds risky to me.",
+      "Can you explain this in a different way?"
+    ],
+    "contrary_signals": [
+      "This sounds great, let's go for it!",
+      "I'm convinced, when can we start?",
+      "I love this offer!"
+    ],
+    "intervention": "Reframe the offer to highlight benefits rather than costs.",
+    "example_response": "If you choose this plan, you'll save significantly on your overall expenses in the long run.",
+    "mechanism": "The way information is framed influences emotional reactions, which can lead to different choices even if the underlying facts are the same."
+  },
+  {
+    "principle_id": "kahneman_peak_end_rule_01",
+    "name": "Peak-End Rule",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 36,
+      "page": "328",
+      "chapter_name": "Life as a Story",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_36.md"
+    },
+    "definition": "The peak-end rule indicates that customers judge experiences based on the most intense moments and the final moments, which can significantly influence their overall satisfaction.",
+    "triggers": [
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "What do others think?",
+      "I'm not sure if this is the right choice."
+    ],
+    "contrary_signals": [
+      "This is exactly what we need",
+      "When can we start?"
+    ],
+    "intervention": "Highlight the most impactful features of your product and ensure the closing experience is positive and memorable.",
+    "example_response": "Imagine the impact this feature will have on your team, and let's make sure your onboarding experience is seamless and enjoyable.",
+    "mechanism": "The peak-end rule operates on the principle that people remember experiences based on their most intense moments and how they concluded, making it crucial to create strong peaks and a positive ending."
+  },
+  {
+    "principle_id": "kahneman_duration_neglect_01",
+    "name": "Duration Neglect",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 36,
+      "page": "326",
+      "chapter_name": "Life as a Story",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_36.md"
+    },
+    "definition": "Duration neglect suggests that customers evaluate experiences based on significant moments rather than the total time spent, influencing their perception of value and satisfaction.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign"
+    ],
+    "intervention": "Emphasize the key benefits and memorable moments of your product or service rather than its duration or total features.",
+    "example_response": "This solution will not only solve your current issues but will also create memorable experiences for your team.",
+    "mechanism": "Duration neglect occurs because people focus on peak moments and the end of experiences, leading them to overlook the overall duration when evaluating satisfaction."
+  },
+  {
+    "principle_id": "kahneman_experienced_well_being_01",
+    "name": "Experienced Well-Being",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 37,
+      "page": "330-335",
+      "chapter_name": "Experienced Well-Being",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_37.md"
+    },
+    "definition": "This principle highlights the importance of focusing on the immediate experiences and feelings of customers rather than their overall life satisfaction, which can influence their buying decisions.",
+    "triggers": [
+      "information_gathering",
+      "low_urgency",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I'm not sure if this is the right choice for me.",
+      "I need to think about how I feel about this.",
+      "Can you tell me more about how this will make me feel?"
+    ],
+    "contrary_signals": [
+      "This feels right, let's proceed.",
+      "I'm excited to start using this.",
+      "I can see how this will improve my daily life."
+    ],
+    "intervention": "Emphasize the immediate benefits and positive experiences associated with the product.",
+    "example_response": "Many of our customers report feeling more relaxed and happy after using this product—would you like to try it out?",
+    "mechanism": "Focusing on immediate experiences can enhance emotional engagement, making the product more appealing and reducing hesitation."
+  },
+  {
+    "principle_id": "kahneman_focusing_illusion_01",
+    "name": "The Focusing Illusion",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 38,
+      "page": "336-343",
+      "chapter_name": "Thinking About Life",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_38.md"
+    },
+    "definition": "The Focusing Illusion suggests that individuals overemphasize certain aspects of their life when evaluating their overall happiness, which can lead to skewed perceptions of satisfaction and influence buying decisions.",
+    "triggers": [
+      "information_gathering",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I'm really happy with my current situation.",
+      "This product seems like it would make me happier."
+    ],
+    "contrary_signals": [
+      "I'm not interested in this right now.",
+      "I don't think this will change my life."
+    ],
+    "intervention": "Highlight the specific benefits of the product that align with the customer's current focus or mood.",
+    "example_response": "I understand that you're feeling good about your current situation, but imagine how much better it could be with our solution!",
+    "mechanism": "The Focusing Illusion operates on the principle that when people concentrate on a specific aspect of their life, it disproportionately influences their overall evaluation, making them more receptive to related offers."
+  },
+  {
+    "principle_id": "cialdini_fixed_action_patterns_01",
+    "name": "Fixed-Action Patterns",
+    "source": {
+      "book": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "chapter": 1,
+      "page": "2",
+      "chapter_name": "Weapons of Influence",
+      "path": "data/markdown/Influence_The_Psychology_of_Persuasion/chapter_01.md"
+    },
+    "definition": "Fixed-action patterns are automatic responses triggered by specific stimuli, which can be leveraged in sales to prompt immediate customer reactions.",
+    "triggers": [
+      "prospect_delaying",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign"
+    ],
+    "intervention": "Identify and emphasize key features or benefits that trigger an automatic positive response.",
+    "example_response": "Many of our customers have found that this product solves their problem quickly—would you like to try it?",
+    "mechanism": "The principle of automaticity suggests that once a customer recognizes a familiar trigger, they may respond without fully processing the information, leading to quicker decisions."
+  },
+  {
+    "principle_id": "voss_create_illusion_of_control_01",
+    "name": "Create the Illusion of Control",
+    "source": {
+      "book": "Never Split the Difference",
+      "author": "Chris Voss",
+      "chapter": 7,
+      "page": "188",
+      "chapter_name": "Create the Illusion of Control",
+      "path": "data/markdown/Never_Split_the_Difference/chapter_07.md"
+    },
+    "definition": "This principle helps in guiding the customer towards a decision by making them feel they are in control of the conversation, which can lead to a more favorable outcome for the salesperson.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "seeking_validation"
+    ],
+    "signals": [
+      "I need to think about it",
+      "What do you think about this option?",
+      "Can you give me more details?"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Use calibrated questions to guide the conversation without appearing aggressive.",
+    "example_response": "What do you think would be the best next step for you?",
+    "mechanism": "By using calibrated questions, you reduce resistance and create a collaborative atmosphere, making the customer feel empowered in their decision-making process."
+  },
+  {
+    "principle_id": "kahneman_attention_01",
+    "name": "Attention and Effort",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 2,
+      "page": "30-35",
+      "chapter_name": "Attention and Effort",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_02.md"
+    },
+    "definition": "This principle highlights that customers often prefer to invest minimal effort in decision-making, which can lead to indecision or avoidance in the buying process.",
+    "triggers": [
+      "low_urgency",
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "I need to think about it",
+      "Can you send me more information?",
+      "This seems complicated"
+    ],
+    "contrary_signals": [
+      "Let's move forward",
+      "I'm ready to sign",
+      "This is exactly what we need"
+    ],
+    "intervention": "Simplify the decision-making process by providing clear, concise information and addressing potential concerns directly.",
+    "example_response": "I can break down the benefits for you in just a few bullet points—would that help?",
+    "mechanism": "Cognitive load theory suggests that when faced with complex decisions, individuals may experience mental fatigue, leading them to avoid making a choice altogether."
+  },
+  {
+    "principle_id": "kahneman_associative_machine_01",
+    "name": "The Associative Machine",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 4,
+      "page": "45-52",
+      "chapter_name": "The Associative Machine",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_04.md"
+    },
+    "definition": "The associative machine refers to the automatic and unconscious way our minds link ideas, which can influence buying behavior by creating emotional responses and associations with products.",
+    "triggers": [
+      "prospect_delaying",
+      "information_gathering",
+      "low_urgency"
+    ],
+    "signals": [
+      "I'm not sure about this product.",
+      "I need to think about it.",
+      "Can you tell me more about the benefits?"
+    ],
+    "contrary_signals": [
+      "This is exactly what we need.",
+      "I'm ready to move forward.",
+      "Let's finalize the details."
+    ],
+    "intervention": "Highlight the positive associations and benefits of the product to create a favorable emotional response.",
+    "example_response": "Many of our customers have found that this product has significantly improved their daily routines—would you like to hear some success stories?",
+    "mechanism": "The associative activation of ideas creates a network of related concepts that can influence emotions and decisions, making positive associations with a product more likely to lead to a purchase."
+  },
+  {
+    "principle_id": "kahneman_surprises_01",
+    "name": "Seeing Causes and Intentions",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 6,
+      "page": "63-68",
+      "chapter_name": "Norms, Surprises, and Causes",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_06.md"
+    },
+    "definition": "This principle illustrates how customers seek coherent explanations for events, which can be leveraged to create narratives around product benefits and features.",
+    "triggers": [
+      "seeking_validation",
+      "information_gathering",
+      "price_resistant"
+    ],
+    "signals": [
+      "Can you explain why this is better?",
+      "What makes this different from others?",
+      "How does this work in practice?"
+    ],
+    "contrary_signals": [
+      "I understand how this works.",
+      "This makes perfect sense to me.",
+      "I see why this is the best option."
+    ],
+    "intervention": "Provide clear, logical explanations of how your product solves problems or meets needs.",
+    "example_response": "Let me explain how our product addresses the common challenges faced by users like you.",
+    "mechanism": "The search for causality helps customers make sense of their choices, and providing coherent narratives can reduce uncertainty and increase confidence in the purchase."
+  },
+  {
+    "principle_id": "kahneman_bias_to_believe_01",
+    "name": "A Bias to Believe and Confirm",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 7,
+      "page": "69-76",
+      "chapter_name": "A Machine for Jumping to Conclusions",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_07.md"
+    },
+    "definition": "This principle indicates that customers are predisposed to accept information that aligns with their existing beliefs, which can influence their purchasing decisions.",
+    "triggers": [
+      "seeking_validation",
+      "price_resistant"
+    ],
+    "signals": [
+      "That sounds too good to be true",
+      "What do others think about this?"
+    ],
+    "contrary_signals": [
+      "This is exactly what we need",
+      "I trust your recommendation"
+    ],
+    "intervention": "Provide evidence or testimonials that align with the customer's beliefs to reinforce their confidence in the decision.",
+    "example_response": "Many of our clients have seen great success with this solution; would you like to hear their stories?",
+    "mechanism": "Confirmation bias leads individuals to favor information that confirms their pre-existing beliefs, making them less critical of persuasive messages."
+  },
+  {
+    "principle_id": "kahneman_affect_heuristic_01",
+    "name": "Affect Heuristic",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 13,
+      "page": "123",
+      "chapter_name": "Availability, Emotion, and Risk",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_13.md"
+    },
+    "definition": "Customers often make decisions based on their emotional responses rather than rational analysis, which can be leveraged to create a favorable impression of a product.",
+    "triggers": [
+      "seeking_validation",
+      "low_urgency"
+    ],
+    "signals": [
+      "I really like how this looks.",
+      "This feels right to me."
+    ],
+    "contrary_signals": [
+      "I need to see the numbers before I decide.",
+      "Let's analyze the risks involved."
+    ],
+    "intervention": "Focus on the emotional benefits of the product and how it aligns with the customer's values.",
+    "example_response": "Imagine how much more enjoyable your daily routine will be with this product enhancing your experience.",
+    "mechanism": "Emotions can simplify decision-making processes, leading customers to favor options that evoke positive feelings."
+  },
+  {
+    "principle_id": "kahneman_negativity_dominance_01",
+    "name": "Negativity Dominance",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 28,
+      "page": "253-260",
+      "chapter_name": "Bad Events",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_28.md"
+    },
+    "definition": "Customers are more affected by negative information than positive, which can influence their perception of a product or service.",
+    "triggers": [
+      "information_gathering",
+      "comparing_competitors"
+    ],
+    "signals": [
+      "What are the downsides?",
+      "I've heard some bad reviews about this.",
+      "What if it doesn't meet my expectations?"
+    ],
+    "contrary_signals": [
+      "I've heard great things about this product!",
+      "This seems like a fantastic choice!",
+      "I believe this will really help me."
+    ],
+    "intervention": "Address any negative perceptions directly and provide evidence of positive outcomes to counterbalance them.",
+    "example_response": "I understand your concerns; let me share some testimonials from customers who had similar worries but found great success with our product.",
+    "mechanism": "Negativity dominance means that negative experiences or information have a more significant impact on decision-making than positive ones, leading to heightened caution."
+  },
+  {
+    "principle_id": "kahneman_keeping_score_01",
+    "name": "Keeping Score",
+    "source": {
+      "book": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "chapter": 32,
+      "page": "289",
+      "chapter_name": "Keeping Score",
+      "path": "data/markdown/Thinking_Fast_and_Slow/chapter_32.md"
+    },
+    "definition": "The principle of keeping score highlights how individuals track their successes and failures, influencing their decision-making and emotional responses in sales contexts.",
+    "triggers": [
+      "mental_accounting",
+      "loss_aversion",
+      "sunk_cost_fallacy"
+    ],
+    "signals": [
+      "I need to justify this purchase.",
+      "What if I regret this decision later?",
+      "I can't let this investment go to waste."
+    ],
+    "contrary_signals": [
+      "I'm ready to move forward.",
+      "This feels like the right choice.",
+      "Let's finalize the deal."
+    ],
+    "intervention": "Highlight the benefits of moving forward and the potential for future gains rather than dwelling on past costs.",
+    "example_response": "By investing in this product, you're setting yourself up for future success and growth.",
+    "mechanism": "The psychological mechanism at play is loss aversion, where the fear of losing what one has or admitting a mistake outweighs the potential for future gains."
+  }
+]
